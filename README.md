@@ -17,8 +17,14 @@
 <div align="center">
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+___
 
-
+### :man_technologist: About Me :
+I am a Full Stack Developer that enjoys problem solving and learning new things. I am extremely passionate about creating quality work that matches the customers wants and needs.
+- 🔭 I'm currently working at a Startup called TeachMeNow. My roles consist of building the web application, user testing, and data web scraping.
+- 🌱 I'm currently learning about machine learning 🤖 and working with large language models like GPT/LlamaCpp.
+- ⚡ In my free time, I enjoy visiting National Parks 🥾, Hiking 🏞️, Planting Trees 🌱, and watching Soccer ⚽.
+- - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Dylan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dylan-jones-09b41a280)
                   
 Here are some ideas to get you started:
 
