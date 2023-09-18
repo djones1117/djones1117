@@ -10,7 +10,7 @@
 <div>
 <img src="https://komarev.com/ghpvc/?username=djones1117&style=flat-square&color=blue" alt=""/>
 </div>
-<h1> Hey there 👋 
+<h1> Hey there, I'm Dylan Jones 👋 
 </h1> 
 </div>
 
