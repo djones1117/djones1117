@@ -21,17 +21,17 @@
 
 ---
 
-### :man_technologist: About Me :
+### 🧑‍💻 About Me:
 I am a Full Stack Developer that enjoys problem solving and learning new things. I am extremely passionate about creating quality work that matches the customers wants and needs.
 - 🔭 I'm currently working at a Startup called TeachMeNow. My roles consist of building the web application, user testing, and data web scraping.
 - 🌱 I'm currently learning about machine learning 🤖 and working with large language models like GPT/LlamaCpp.
 - ⚡ In my free time, I enjoy visiting National Parks 🥾, Hiking 🏞️, Planting Trees 🌱, and watching Soccer ⚽.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Dylan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dylan-jones-09b41a280)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Dylan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dylan-jones-09b41a280)
 </div>
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :   
+### 🛠️ Languages and Tools :   
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="SQL" alt="sql" width="40" height="40"/>&nbsp;  
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -51,7 +51,7 @@ I am a Full Stack Developer that enjoys problem solving and learning new things.
 
 ---
 
-### :fire: My Stats :
+### 🔥 My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com/?user=djones1117)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djones1117&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
