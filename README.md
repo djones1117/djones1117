@@ -26,9 +26,9 @@ I’m a Software Engineer focused on **ML/AI and cloud-based applications**, wit
 
 - 🔭 I’m currently working at a digital health startup called **TeachMeMedical**, building a generative AI product that explains medical records in clear, patient-friendly language.
 - 🧠 On the backend, I work with **Python, Flask/FastAPI, MySQL/PostgreSQL, and Google Cloud** to design secure APIs that power LLM-based features.
-- 🛡 I’ve helped design **HIPAA-aligned medical workflows** using env vars for secrets, PHI tokenization/redaction before LLM calls, and private networking/VPC-style isolation.
+- 🛡 I’ve helped design **HIPAA-aligned medical workflows** using env vars for secrets, PHI tokenization/redaction before LLM calls, and restricted-access service patterns and secure cloud configuration.
 - 🤖 I build **ML/AI projects** using scikit-learn, fastai, and PyTorch, including a Framingham-based cardiovascular risk predictor (logistic regression + API) and a forest image classifier using CNNs and transfer learning.
-- ☁️ I’m comfortable in **cloud and DevOps**: GCP and AWS (S3, IAM, EC2, private subnets, etc), Docker, CI/CD workflows, and CLI-based deployments for reproducible environments.
+- ☁️ I’m comfortable in **cloud and DevOps**: GCP and AWS (S3, IAM, EC2, etc), Docker, CI/CD workflows, and CLI-based deployments for reproducible environments.
 - 📊 I care about **data and reliability**: SQL/MySQL/PostgreSQL, data modeling for auditable medical content and AI outputs, and clean REST API designs.
 - 📱 On the frontend, I’ve led **Flutter/Dart mobile development**, managing Android/iOS builds and releases with Android Studio and Xcode.
 - 📚 I transitioned from business management into software engineering through self-study and General Assembly’s Software Engineering Immersive, and I’m continually leveling up in **ML/AI, MLOps, and cloud architecture**.
